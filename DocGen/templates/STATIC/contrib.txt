@@ -1,0 +1,10 @@
+# Contributions
+We value contributions from the community to enhance and improve this project. If you're interested in contributing, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your contribution.
+3. Make your changes and improvements.
+4. Test your changes thoroughly.
+5. Submit a pull request, clearly describing your changes and the problem they solve.
+
+We appreciate your efforts in making this project better!

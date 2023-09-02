@@ -1,0 +1,15 @@
+### Code Snippet Documentation: [Script Name]
+
+**File:** [file_name + extension] (e.g., `script.py`)
+
+**Description:**
+A concise description of what the script accomplishes.
+
+#### Usage:
+Provide instructions on how to use the script, including required inputs or parameters.
+
+#### Functionality:
+Describe the primary functionality and purpose of the script.
+
+#### Notes:
+Include any crucial notes or considerations for users regarding the script.

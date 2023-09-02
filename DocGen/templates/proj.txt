@@ -1,0 +1,29 @@
+
+Instruction:
+Generate a brief project scope and insight docs file documentation and description for the provided code snippet. 
+The manual should be enclosed in a single code block without any special formatting or symbols like backticks (`). 
+The manual should include the following sections:
+Use the Markdown.md formatting for README.md
+
+Template:
+### 'file_name + extension' 
+[like: 1.sh / test.py / config.yml etc]
+# Project Name:
+[Provide a name for project based on tree provided]
+## Desc:
+[Provide a brief description of what the project does.]
+
+### Details:
+> [Explain files purpose and use, including any required inputs or parameters.]
+
+### Usage:
+> [Explain how to use each script, including any required inputs or parameters.]
+
+### Relations:
+> [Briefly describe relation between each each file.]
+
+### Dependencies:
+> [List all plausable dependencies, including pip & apt install commands if any are known]
+
+### Note:
+> [Include any important notes or dependencies for users.]

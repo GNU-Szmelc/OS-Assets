@@ -1,0 +1,9 @@
+# Credits and Acknowledgments
+We would like to express our gratitude to the following individuals and projects for their contributions, inspiration, and support:
+
+- [Author Name](Author GitHub Profile) - for the initial project idea and development.
+- [Contributor Name](Contributor GitHub Profile) - for significant contributions to the project.
+- [External Project](Link to External Project) - for inspiring certain aspects of our project.
+- [Library Name](Link to Library) - for providing a crucial library used in this project.
+
+Thank you to everyone who has played a part in making this project possible!

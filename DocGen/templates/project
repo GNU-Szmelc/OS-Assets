@@ -1,0 +1,22 @@
+Generate a brief project scope and overwiev file in TXT format with documentation and description for the provided code snippet. 
+The manual should be enclosed in a single code block without any special formatting or symbols like backticks (`). 
+The manual should include the following sections:
+
+Project Name
+[Provide a name for project based on tree provided]
+Project Description:
+[Provide a brief description of what the project does.]
+
+Details:
+[Explain files purpose and use, including any required inputs or parameters.]
+
+Usage:
+[Explain how to use each script, including any required inputs or parameters.]
+
+Functionality:
+[Describe the main functionality and purpose of each file.]
+
+Note:
+[Include any important notes or dependencies for users.]
+
+regenerate manual in a codeblock without formatting

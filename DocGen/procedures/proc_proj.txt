@@ -1,0 +1,6 @@
+[PROCEDURE]
+use proj.txt -on-> [all] [files] in snippets directory
+
+bash summarize.sh > sum.md
+
+add {sum.md} after template

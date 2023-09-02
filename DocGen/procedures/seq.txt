@@ -1,0 +1,3 @@
+[PROCEDURE]
+use template1.txt -on-> [all] [code] files in snippets directory
+use template2.txt -on-> [all] [code] files in snippets directory

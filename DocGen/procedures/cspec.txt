@@ -1,0 +1,4 @@
+[PROCEDURE]
+use template_a.txt -on-> [all] [Python] files in snippets directory
+
+add specific_file.txt after template

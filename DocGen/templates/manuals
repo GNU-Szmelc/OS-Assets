@@ -1,0 +1,22 @@
+Generate a brief manual file in TXT format with documentation and description for the provided code snippet. 
+The manual should be enclosed in a single code block without any special formatting or symbols like backticks (`).
+ The manual should include the following sections:
+
+Script Name
+[Provide a name for script based on code provided]
+
+Script Description:
+[Provide a brief description of what the script does.]
+
+Usage:
+[Explain how to use the script, including any required inputs or parameters.]
+
+Note:
+[Include any important notes or considerations for users.]
+
+Functionality:
+[Describe the main functionality and purpose of the script.]
+
+<CODE>
+
+Don't add anything else. just generated .txt file in a codeblock.

@@ -1,0 +1,21 @@
+### Project Documentation: [Project Name]
+
+**File:** [file_name + extension] (e.g., `1.sh`, `test.py`, `config.yml`)
+
+**Description:**
+Brief overview of the project's purpose and functionality.
+
+#### Files and Purpose:
+Explain the purpose and usage of each file, detailing any required inputs or parameters.
+
+#### Usage:
+Provide instructions on how to use each script, including necessary inputs and parameters.
+
+#### File Relationships:
+Briefly describe the relationships and interactions between different files in the project.
+
+#### Dependencies:
+List the dependencies required by the project, including any necessary installation commands (e.g., pip, apt).
+
+#### Notes:
+Include important notes or considerations for users working with the project.

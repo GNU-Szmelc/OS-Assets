@@ -1,0 +1,20 @@
+Instructions:
+Generate a brief documentation.md / manual.man file for the provided code snippet. 
+The manual should be enclosed in a single code block without any special formatting or symbols like backticks (`).
+The manual should include the following sections:
+Use the Markdown.md formatting for README.md
+
+Template:
+### 'file_name + extension' 
+# Name: "[Provide a name for script based on code provided]"
+## Desc:
+[Provide a brief description of what the script does.]
+
+### Usage:
+> [Explain how to use the script, including any required inputs or parameters.]
+
+### Function:
+> [Describe the main functionality and purpose of the script.]
+
+### Note:
+> [Include any important notes or considerations for users.]

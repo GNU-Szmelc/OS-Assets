@@ -1,0 +1,5 @@
+[PROCEDURE]
+use docs_template.txt -on-> [all] [code] files in snippets directory
+
+add user instructions for [specific_file.txt]
+add explanation for [another_file.cpp]
